@@ -28,3 +28,5 @@ function show(){
     console.log(functionVar); // Menghasilkan ReferenceError
     console.log(functionLet); // Menghasilkan ReferenceError
     console.log(functionConst); // Menghasilkan ReferenceError
+
+    
